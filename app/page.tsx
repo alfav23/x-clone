@@ -1,7 +1,5 @@
 import styles from "./page.module.scss";
-// import SignUpPage from "./signup/page";
-// import LogIn from "./login/page";
-import Link from 'next/link'
+import React from "react";
 import HomePage from "@/components/HomePage";
 
 export default function Home() {
